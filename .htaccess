@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^submit$ /shitmrsteelsays/submit.php
+RewriteRule ^(\d+)$ /shitmrsteelsays/index.php?quote=$1
+RewriteRule ^quotesfile$ - [F]
+RewriteRule ^submitters$ - [F]
+RewriteRule ^config.php$ - [F]
+RewriteRule ^header.php$ - [F]

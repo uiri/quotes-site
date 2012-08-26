@@ -1,0 +1,11 @@
+<?php
+
+        // The full URL for this site is http://example.com/quotes/
+        $url = "http://example.com/";
+        $path = "quotes/";
+        $submit_title = "Submit Some Quotes That I Said";
+        /* The submit form is vulnerable to all kinds of nasty stuff
+           So put in a valid email and remember that any email about
+           quotes is a potential attack.                          */
+        $email = "test@example.com";
+?>

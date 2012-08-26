@@ -1,0 +1,21 @@
+body {
+     color: #7c0;
+     background-color: #333;
+     margin: 10%;
+     margin-top: 5%;
+     text-align: center;
+     font-size: 1.5em;
+     font-family: Verdana, Verdana, Geneva, sans-serif;
+}
+
+.links {
+       margin-left: auto;
+       margin-right: auto;
+       width: 275px;
+       font-size: 15px;
+       color: #fff;
+}
+
+a {
+  color: #fff;
+}
